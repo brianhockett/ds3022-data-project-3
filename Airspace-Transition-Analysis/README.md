@@ -31,12 +31,12 @@
 
 <table>
   <tr>
-    <td><img src="Cruising_Density.png" width="250"/></td>
-    <td><img src="Planes_by_Airspace.png" width="250"/></td>
+    <td><img src="Cruising_Density.png" width="500"/></td>
+    <td><img src="Planes_by_Airspace.png" width="500"/></td>
   </tr>
   <tr>
-    <td><img src="StreamlitApp.png" width="250"/></td>
-    <td><img src="Traffic_Density.png" width="250"/></td>
+    <td><img src="StreamlitApp.png" width="500"/></td>
+    <td><img src="Traffic_Density.png" width="500"/></td>
   </tr>
 </table>
 
