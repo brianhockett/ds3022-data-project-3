@@ -1,7 +1,7 @@
 # Team Airspace
 
 ## Team members
-> Brian Hockett
+- Brian Hockett (mgh2xx)
 
 
 ## Data Source
