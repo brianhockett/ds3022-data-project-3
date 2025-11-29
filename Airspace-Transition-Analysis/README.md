@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td><img src="StreamlitApp.png" width="1250"/></td>
+    <td><img src="StreamlitApp.png" width="2050"/></td>
   </tr>
   <tr>
     <td><img src="Cruising_Density.png" width="1250"/></td>
